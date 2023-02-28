@@ -12,4 +12,4 @@ Before using ulp.sh, you must have the following:
 Simply run the script with `bash ./ulp.sh`.
 
 ## Configuration
-The script supports reading the Auth0 Management API token and endpoint URLs from a config file. Please review `ulp.config` for more information.
+The script supports reading the Auth0 Management API token and endpoint URLs from a config file. Please refer to `ulp.config` for more information.
