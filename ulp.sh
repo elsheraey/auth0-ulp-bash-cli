@@ -13,7 +13,7 @@ set_template() {
     --header 'content-type: text/html' \
     --data-binary "@ulp.html" \
 
-  echo "Success..."
+  echo "Action complete..."
 }
 
 # Define a function to get the template
@@ -25,7 +25,7 @@ get_template() {
     --header "authorization: Bearer ${MGMT_API_ACCESS_TOKEN}" \
     --w "\n"
 
-  echo "Success..."
+  echo "Action complete..."
 }
 
 # Define a function to delete the template
@@ -36,7 +36,7 @@ delete_template() {
     --url "${TEMPLATE_ENDPOINT}" \
     --header "authorization: Bearer ${MGMT_API_ACCESS_TOKEN}" \
 
-  echo "Success..."
+  echo "Action complete..."
 }
 
 # Loop until the user chooses to exit
