@@ -7,10 +7,10 @@ Before using `ulp.sh`, you must have the following:
 - Auth0 Management API token with the necessary permissions for template management.
 - `curl` installed on your system.
 
-## Usage
-Simply run the script with `bash ./ulp.sh`.
-
 ## Configuration
 The script supports reading the Auth0 Management API token and template endpoint from a config file. 
 
 Please refer to [ulp.config](/ulp.config) for more information.
+
+## Usage
+Simply run the script with `bash ./ulp.sh`.
