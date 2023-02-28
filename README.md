@@ -3,9 +3,9 @@
 
 ## Prerequisites
 Before using ulp.sh, you must have the following:
-- An Auth0 account.
-- An Auth0 Management API token with the necessary permissions for template management.
-- curl installed on your system.
+- Auth0 account.
+- Auth0 Management API token with the necessary permissions for template management.
+- `curl` installed on your system.
 
 ## Usage
 Simply run the script with `bash ./ulp.sh`.
