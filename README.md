@@ -1,5 +1,5 @@
 # auth0-ulp-bash-cli
-[ulp.sh](/ulp.sh) is a bash CLI that allows you to manage Auth0 New Universal Login Page templates API.
+[ulp.sh](/ulp.sh) is a bash CLI that allows you to manage [Auth0 New Universal Login Page templates API](https://auth0.com/docs/customize/universal-login-pages/universal-login-page-templates#page-templates-api).
 
 ## Prerequisites
 Before using ulp.sh, you must have the following:
